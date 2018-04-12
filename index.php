@@ -45,7 +45,7 @@
     
 <form method="post" accept-charset="utf-8" id="shorten" class="form-inline" action="index.php">
 <div class="form-group">
-<input type="text" name="input" placeholder="Your URL Here  (http://example.com)" required="" class="form-control input-lg" id="url">
+<input type="text" name="input" placeholder="Your URL Here  (http://www.example.com)" required="" class="form-control input-lg" id="url">
 
 <button class="btn-captcha" id="invisibleCaptchaShort" type="submit" name="submit"><img src="./index_files/Right-Arrow.png" alt=""></button>
 </div>
