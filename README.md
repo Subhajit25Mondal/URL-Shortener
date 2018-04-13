@@ -16,7 +16,7 @@ URL Compressor is a Web-Application that can actually Shorten long URL's and giv
 ## Setup
 
 For Setup You need to edit some codes according to the name of your domain/Hosting Server.
-You can even contact me on Twitter @SubhajitX or directly post an Issue.
+You can even contact me on Twitter [@SubhajitX](www.twitter.com/SubhajitX) or directly post an Issue.
 
 ### Setup in local Server
 1. Install Xampp or Wampp Server.
