@@ -146,6 +146,7 @@ echo "<code id=\"mycode\"> /localhost/url/$ttt </code>";
 </div>
 </div>
 <div class="slogan">
+	<b>Note: Do not forget to add ' http:// ' at the beginning.</b><br>
 URL Compressor is a service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share tweet email to friends.</div>
 </div>
 </div>
