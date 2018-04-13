@@ -26,10 +26,10 @@ You can even contact me on Twitter @SubhajitX or directly post an Issue.
 
 Note: For Setup Guide. i will upload a video tutorial soon.
 
-# Contribute
+## Contribute
 
 Show your support by 🌟 the project!!
 Please mention the author.
 
-# LICENSE
+## LICENSE
 MIT License
