@@ -2,10 +2,9 @@
 URL Compressor is a Web-Application that can actually Shorten long URL's and give you a short URL for sharing it with anybody. 
 
 ## Screenshots
-<img width="949" alt="capture1" src="https://user-images.githubusercontent.com/27961735/38691210-d29bb1a6-3e9d-11e8-90d0-7a1f8da49af0.PNG">
+<img width="955" alt="capture1" src="https://user-images.githubusercontent.com/27961735/38726366-981637e2-3f27-11e8-8930-94364c62c14b.PNG">
 
-<img width="948" alt="capture2" src="https://user-images.githubusercontent.com/27961735/38691451-815763d4-3e9e-11e8-873c-dd9cfbc5b782.PNG">
-Note: This Screenshots are captured when they were tested in Xampp Server, Thus, the shortened URL shows "/localhost/"
+<img width="947" alt="capture2" src="https://user-images.githubusercontent.com/27961735/38726364-97d8010c-3f27-11e8-92e6-665d3272db32.PNG">
 
 ## Setup
 
