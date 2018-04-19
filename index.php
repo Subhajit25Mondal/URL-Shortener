@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0048)file:///C:/Users/my/Desktop/SONGS/NEWW/index.php -->
+
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
  <title>URL Compressor</title>
@@ -72,30 +72,30 @@ $per=$a[$random[0]];
 
 
 
-$rowSQL = mysqli_query( $con, "SELECT MAX( id ) AS max FROM main;" );               //MAX VALUE FROM TABLE
+$rowSQL = mysqli_query( $con, "SELECT MAX( id ) AS max FROM main;" );               
 $row = mysqli_fetch_array( $rowSQL );
 $largestNumber = $row['max'];
 
 
-mkdir($per.($largestNumber+1));                                                     //MAKING DIRECTORY
+mkdir($per.($largestNumber+1));                                                     
 $direc=$per.($largestNumber+1)."/index.html";
 
 $myfile= fopen($direc,'w') or die ("Unable to contact server");
 
 
-$url=$get_value;                                                                    //LINK
+$url=$get_value;                                                                 
 
-$url2="<script>window.location.href='$url'</script>";                               //JAVASCRIPT LINK
+$url2="<script>window.location.href='$url'</script>";                             
 
 
-fwrite($myfile, $url2);                                                             //WRITING INTO FILE
+fwrite($myfile, $url2);                                                           
 
 fclose($myfile);                                                
 
 
 
 
-                                                                                   //IP AND TIME BEGIN
+                                                                                
 
 $b=$_SERVER['REMOTE_ADDR'];
 
@@ -106,7 +106,7 @@ $timestamp = time();
 $date_time = date("d-m-Y (D) H:i:s", $timestamp);
 
 
-                                                                                    //IP AND TIME END
+                                                                                  
 
 
 
